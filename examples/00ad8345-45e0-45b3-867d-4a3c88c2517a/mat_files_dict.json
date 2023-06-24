@@ -1,0 +1,18 @@
+{
+    "Floor": "walls.h5",
+    "bounds": "walls.h5",
+    "SlabSide": "walls.h5",
+    "Pocket": "walls.h5",
+    "Front": "walls.h5",
+    "CustomizedCeiling": "walls.h5",
+    "WallOuter": "walls.h5",
+    "Ceiling": "walls.h5",
+    "CustomizedFeatureWall": "walls.h5",
+    "SlabBottom": "walls.h5",
+    "WallInner": "interiorwalls.h5",
+    "LightBand": "walls.h5",
+    "Back": "walls.h5",
+    "WallTop": "walls.h5",
+    "WallBottom": "walls.h5",
+    "Baseboard": "walls.h5"
+}
